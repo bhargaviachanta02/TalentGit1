@@ -7,8 +7,16 @@ public class MainCode {
      System.out.println("welcome conflict hai");
    
 
+/*<<<<<<< HEAD
 		System.out.println("New conflict not old one");
 		System.out.println("new line");
+=======
+
+		System.out.println("welcome conflict  old confict");
+*/
+		System.out.println(" very good  conflict");
+
+
 
 
 	}
